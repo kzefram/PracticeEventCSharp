@@ -1,0 +1,11 @@
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PracticeEvents\PracticeEvents\bin\Debug\PracticeEvents.exe.config
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PracticeEvents\PracticeEvents\bin\Debug\PracticeEvents.exe
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PracticeEvents\PracticeEvents\bin\Debug\PracticeEvents.pdb
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PracticeEvents\PracticeEvents\obj\Debug\PracticeEvents.csproj.AssemblyReference.cache
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PracticeEvents\PracticeEvents\obj\Debug\PracticeEvents.csproj.SuggestedBindingRedirects.cache
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PracticeEvents\PracticeEvents\obj\Debug\PracticeEvents.Properties.Resources.resources
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PracticeEvents\PracticeEvents\obj\Debug\PracticeEvents.csproj.GenerateResource.cache
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PracticeEvents\PracticeEvents\obj\Debug\PracticeEvents.csproj.CoreCompileInputs.cache
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PracticeEvents\PracticeEvents\obj\Debug\PracticeEvents.exe
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PracticeEvents\PracticeEvents\obj\Debug\PracticeEvents.pdb
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PracticeEvents\PracticeEvents\obj\Debug\PracticeEvents.lblPracticeEvent.resources
